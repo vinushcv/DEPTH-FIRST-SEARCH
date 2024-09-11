@@ -132,7 +132,8 @@ G F <BR>
 
 <h3>Sample Output</h3>
 
-![Screenshot ](dfs1.png)
+![image](https://github.com/user-attachments/assets/dc443f96-b3d7-4226-bba2-2831707e4744)
+
 
 
 <h3>Sample Input</h3>
@@ -147,10 +148,11 @@ G F <BR>
 
 <h3>Sample Output</h3>
 
-![Screenshot ](dfs2.png)
+![image](https://github.com/user-attachments/assets/c40f4e04-2925-4fd0-afeb-ee6f05bc2f4e)
+
 
 
 
 <h3>Result:</h3>
-
+Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
